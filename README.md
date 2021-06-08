@@ -36,7 +36,7 @@ The goal of this project was to build the back-end for an e-commerce site by mod
 
 ## Video Demo
 
-![Demo Video Recording of App](https://www.youtube.com/watch?v=PTBpS1TOtME)
+* [Demo Video Recording of App](https://www.youtube.com/watch?v=PTBpS1TOtME)
 
 ## Installation
 
